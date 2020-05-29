@@ -1,0 +1,9 @@
+spring:
+  kafka:
+    bootstrap-servers: 192.168.31.206:9092
+    consumer:
+      group-id: test-consumer
+      auto-offset-reset: latest
+
+logging:
+  level: warn
