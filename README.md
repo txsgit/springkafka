@@ -8,11 +8,12 @@ git add .
 git commit -m 'Initial Commit'
 git push -u origin master
 ```
-## 环境变量
+##开发环境
 ```
 1、centos 7
 2、jdk 1.8
-3、zookeeper 
+3、apache-zookeeper-3.6.1-bin
+4、kafka_2.13-2.5.0.tgz
 ```
 
 
