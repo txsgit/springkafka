@@ -1,6 +1,6 @@
 # springkafka
 springboot 2.3.0.RELEASE  spring-kafka
-
+jdk8
 ## git 提交命令
 ```
 git init
