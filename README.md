@@ -8,7 +8,7 @@ git add .
 git commit -m 'Initial Commit'
 git push -u origin master
 ```
-##开发环境
+## 开发环境
 ```
 1、centos 7
 2、jdk 1.8
